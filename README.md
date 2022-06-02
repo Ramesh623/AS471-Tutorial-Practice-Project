@@ -1,2 +1,2 @@
-# AS471-Tutorial-Practice-Project
-Just a practice project
+# AS471-Tutorial-Function
+ Just a tutorial for js function.
